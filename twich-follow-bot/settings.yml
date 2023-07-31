@@ -1,0 +1,13 @@
+
+user_token: XXXXXXXXXX
+
+
+command: /tfollow ninja
+
+
+twitch_bot_channel: 999999999999999999
+
+
+followers_per_command: 25
+
+command_cooldown: 5
